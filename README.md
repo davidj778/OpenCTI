@@ -28,7 +28,11 @@ Which Attack technique is used by the malware for execution?
 
 How many malware relations are linked to this Attack technique?
 
+Which 3 tools were used by the Attack Technique in 2016? (Ans: Tool1, Tool2, Tool3)
 
+What country is APT37 associated with?
+
+Which Attack techniques are used by the group for initial access? (Ans: Technique1, Technique2)
 
 
 
