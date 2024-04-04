@@ -20,5 +20,12 @@ Which Attack techniques are used by the group for initial access? (Ans: Techniqu
 
 
 ![1](https://imgur.com/PejDV65.jpg)
-https://imgur.com/kERZTR9
-https://imgur.com/CeCjDl9
+
+https://imgur.com/aEDOiw5
+https://imgur.com/nEdak1i
+https://imgur.com/NSvN6Vw
+https://imgur.com/yCigWuj
+https://imgur.com/iePZnzO
+https://imgur.com/GZYZKbS
+https://imgur.com/zLEMzbx
+https://imgur.com/3TGyqmJ
